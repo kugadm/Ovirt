@@ -12,4 +12,6 @@ function OVERWRITE_IMG(){
 
 DOWN=/rhev/data-center/mnt/downloads
 STOR=/rhev/data-center/mnt/_opt_virtdom_data/60ae2736-e81d-4102-8662-f1f33aa01fec/images
-#IMG=   ; SIZE= ; ID= ; OVERWRITE_IMG $DOWN $STOR $IMG $SIZE $ID;
+IMG=   ; SIZE= ; ID= ; OVERWRITE_IMG $DOWN $STOR $IMG $SIZE $ID;
+IMG=   ; SIZE= ; ID= ; OVERWRITE_IMG $DOWN $STOR $IMG $SIZE $ID;
+IMG=   ; SIZE= ; ID= ; OVERWRITE_IMG $DOWN $STOR $IMG $SIZE $ID;
